@@ -1,6 +1,6 @@
 FROM debian:stretch-slim
 
-ARG JIRA_VERSION=7.7.3
+ARG JIRA_VERSION=7.7.4
 
 WORKDIR /root/
 

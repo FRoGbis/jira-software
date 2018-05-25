@@ -6,7 +6,7 @@ I saw a lot of people use the OpenJDK with the tar.gz but the lastest version of
 
 ## Available versions
 
-* 7.6.x : `7.6.0`, `7.6.1`, `7.6.2`, `7.6.3`
+* 7.6.x : `7.6.0`, `7.6.1`, `7.6.2`, `7.6.3`, `7.6.4`
 
 ### Usage
 

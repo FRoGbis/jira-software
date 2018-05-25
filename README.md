@@ -6,11 +6,14 @@ I saw a lot of people use the OpenJDK with the tar.gz but the lastest version of
 
 ## Available versions
 
-* 7.6.x : `7.6.0`, `7.6.1`, `7.6.2`, `7.6.3`, `7.6.4`
+* 7.6.x : `7.6.0`, `7.6.1`, `7.6.2`, `7.6.3`, `7.6.4`, `7.6.5`
+* 7.7.x : `7.7.`, `7.7.`, `7.7.`, `7.7.`, `7.7.`
 
 ### Usage
 
 To pull the version you want you can do : `docker pull frogbis/jira-software:$VERSION`
+
+If the version is not available on my DockerHub repository, you can edit the ARG JIRA_VERSION on the docker file to put the version you want to use.
 
 #### Defaut values
 

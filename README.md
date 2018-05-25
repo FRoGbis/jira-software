@@ -6,7 +6,7 @@ I saw a lot of people use the OpenJDK with the tar.gz but the lastest version of
 
 #### Defaut values
 
-- JIRA_VERSION =  7.6.0
+- JIRA_VERSION =  7.6.1
 - Xms : 1024
 - Xmx : 2048
 

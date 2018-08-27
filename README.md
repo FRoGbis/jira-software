@@ -11,7 +11,7 @@ I saw a lot of people use the OpenJDK with the tar.gz but the lastest version of
 * 7.8.x : `7.8.0`, `7.8.1`, `7.8.2`, `7.8.3`, `7.8.4`
 * 7.9.x : `7.9.0`, `7.9.1`, `7.9.2`
 * 7.10.x : `7.10.0`, `7.10.1`, `7.10.2`
-* 7.11.x : `7.11.0`, `7.11.1`
+* 7.11.x : `7.11.0`, `7.11.1`, `7.11.2`
 
 > New grafical interface in 7.10 version. ReactJS finally here !
 

@@ -14,7 +14,7 @@ I saw a lot of people use the OpenJDK with the tar.gz but the lastest version of
 > New grafical interface in 7.10 version. ReactJS finally here !
 * 7.11.x : `7.11.0`, `7.11.1`, `7.11.2`
 * 7.12.x : `7.12.0`, `7.12.1`, `7.12.2`, `7.12.3`
-* 7.13.x : `7.13.0`
+* 7.13.x : `7.13.0`, `7.13.1`
 > OpenJDK comes to Jira, however thet continue to package it with the Oracle JDK but if you install it manually you will have another option.
 
 
